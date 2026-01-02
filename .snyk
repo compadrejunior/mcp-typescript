@@ -1,0 +1,4 @@
+exclude:
+  global:
+    - node_modules/**
+    - dist/**
