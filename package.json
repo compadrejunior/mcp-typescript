@@ -7,7 +7,7 @@
     "server:build": "tsc",
     "server:build:watch": "tsc --watch",
     "server:dev": "tsx src/server.ts",
-    "server:inspect": "cross-env DANGEROUSLY_OMIT_AUTH=true npx @modelcontextprotocol/inspector tsx src/server.ts"
+    "server:inspect": "npx @modelcontextprotocol/inspector tsx src/server.ts"
   },
   "keywords": [],
   "author": "",
