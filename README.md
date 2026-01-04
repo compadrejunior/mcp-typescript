@@ -112,7 +112,7 @@ A **dynamic resource template** that provides individual user profile informatio
 pnpm run server:build` - Compiles TypeScript to JavaScript
 - **Development**: `pnpm run server:dev` - Runs with hot-reload using tsx
 - **Inspection**: `p
-The application uses a simple JSON file ([data/users.json](data/users.json)) as a database, containing an array of user objects with fields: `id`, `name`, `email`, `address`, and `phone`.
+The application uses a simple JSON file ([data/users.json](./data/users.json)) as a database, containing an array of user objects with fields: `id`, `name`, `email`, `address`, and `phone`.
 
 ### How AI Assistants Use This Server
 
