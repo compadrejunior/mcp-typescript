@@ -21,7 +21,7 @@
     "tsx": "^4.21.0"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.25.1",
+    "@modelcontextprotocol/sdk": "^1.31.0",
     "zod": "^4.3.4"
   }
 }
